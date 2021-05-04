@@ -1,0 +1,26 @@
+.text-justify {
+    text-align: justify;
+}
+
+/* Contact section */
+.contacts li a.twitter:hover {
+    color: #1DA1F2;
+}
+
+.contacts li a.instagram:hover {
+    color: #833AB4;
+}
+
+/* Offset description of experience and education */
+.timeline li p:last-child {
+    margin-left: 2em;
+}
+
+/* Avatar */
+.avatar-wrapper-override {
+    padding: 0 0em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 3px 12px 3px rgba(98, 98, 98, 0.7);
+}
