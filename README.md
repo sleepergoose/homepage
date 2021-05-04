@@ -5,4 +5,4 @@ My very own personal website. Basically this is just a résumé.
 
 ### You can visit my personal website right now - [DONALD TRUMP - RÉSUMÉ](https://sleepergoose.github.io/homepage/)
 ### But if you don't want it, you can just look at me below 
-[PDF Print of the DONALD TRUMP - RÉSUMÉ](https://sleepergoose.github.io/homepage/assets/images/DonaldTrumpPDF.pdf)
+[PDF Print of the DONALD TRUMP - RÉSUMÉ](https://github.com/sleepergoose/homepage/blob/develop/assets/images/DonaldTrumpPDF.pdf)
