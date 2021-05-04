@@ -4,11 +4,11 @@
 
 /* Contact section */
 .contacts li a.twitter:hover {
-    color: #1DA1F2;
+    color: #1da1f2;
 }
 
 .contacts li a.instagram:hover {
-    color: #833AB4;
+    color: #833ab4;
 }
 
 /* Offset description of experience and education */
@@ -18,9 +18,9 @@
 
 /* Avatar */
 .avatar-wrapper-override {
-    padding: 0 0em;
+    padding: 0em;
     display: flex;
     align-items: center;
     justify-content: center;
-    box-shadow: 0px 3px 12px 3px rgba(98, 98, 98, 0.7);
+    box-shadow: 1px 3px 12px 3px rgba(98, 98, 98, 0.7);
 }
